@@ -1,0 +1,10 @@
+.hr_my{
+  color: #999999;
+  border-color: inherit;
+}
+
+('.element').atrotating();
+
+('.element').atrotating({
+    method: 'group'
+});
